@@ -115,8 +115,8 @@ http://localhost:5000
 | Shoulder       | Dual Continuous Motors |
 | Elbow          | Servo                  |
 | Wrist Up/Down  | Servo                  |
-| Wrist Rotation | Servo                  |
-| Claw           | Servo                  |
+| Wrist Rotation | Micro Servo            |
+| Claw           | Micro Servo            |
 
 Additional functions:
 
