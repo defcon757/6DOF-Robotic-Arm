@@ -83,16 +83,9 @@ arm6-robot/
 │
 ├── cad/
 │   └── stl/                           # 3D-printable arm parts (upload .stl files here)
-│       ├── base.stl
-│       ├── shoulder_left.stl
-│       ├── shoulder_right.stl
-│       ├── upper_arm.stl
-│       ├── elbow_joint.stl
-│       ├── forearm.stl
-│       ├── wrist_joint.stl
-│       ├── wrist_rotate.stl
-│       ├── claw_left.stl
-│       └── claw_right.stl
+│       ├── Arm_Parts.stl
+│       ├── Base_Parts.stl
+│       ├── Claw_Parts.stl
 │
 ├── docs/
 │   ├── wiring_diagram.md
