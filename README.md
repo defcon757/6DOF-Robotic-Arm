@@ -185,13 +185,8 @@ Valid `name` values: `base`, `shoulder`, `elbow`, `wrist_ud`, `wrist_rotate`, `c
 
 The arm was designed in **Onshape**. All printable parts are in `cad/stl/`. Recommended print settings:
 - Material: PLA or PETG
-- Layer height: 0.2 mm
-- Infill: 30–40%
-- Supports: Required for shoulder and elbow joints
-
-> **Note:** STL files must be exported from Onshape and placed in `cad/stl/` manually — they are not tracked by Git due to file size. Placeholder files are included to document the expected parts.
-
----
+- Infill: 20–30%
+- Supports: Required for base only
 
 ## ⚠️ Known Limitations
 
